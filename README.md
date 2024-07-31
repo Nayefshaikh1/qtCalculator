@@ -5,3 +5,4 @@ Calculator supports 4 basic arithmetic operations. It has a Clear button that wi
 P.S. Please ignore color schemes. I haven't invested time on it :smiley:.
 
 ![Demo](Calculator.gif)# qtCalculator
+# qtCalculator
